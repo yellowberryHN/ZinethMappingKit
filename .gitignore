@@ -1,0 +1,5 @@
+*.userprefs
+*.unitypackage
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
